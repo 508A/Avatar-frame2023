@@ -1,0 +1,51 @@
+{
+    "avatarSize": 800,
+    "initialImage": {
+        "webp": "initial.webp",
+        "legacy": "initial.png"
+    },
+    "templates": [
+        {
+            "src": {
+                "webp": "1.webp",
+                "legacy": "1.png"
+            },
+            "preview": {
+                "webp": "1_low.webp",
+                "legacy": "1_low.png"
+            },
+            "example": {
+                "webp": "1_low.webp",
+                "legacy": "1_low.png"
+            }
+        },
+        {
+            "src": {
+                "webp": "2.webp",
+                "legacy": "2.png"
+            },
+            "preview": {
+                "webp": "2_low.webp",
+                "legacy": "2_low.png"
+            },
+            "example": {
+                "webp": "2_low.webp",
+                "legacy": "2_low.png"
+            }
+        },
+        {
+            "src": {
+                "webp": "3.webp",
+                "legacy": "3.png"
+            },
+            "preview": {
+                "webp": "3_low.webp",
+                "legacy": "3_low.png"
+            },
+            "example": {
+                "webp": "3_low.webp",
+                "legacy": "3_low.png"
+            }
+        }
+    ]
+}
